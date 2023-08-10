@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0519b64b-055f-419a-8640-9419cf9e80ae" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../js.11.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js11" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js12/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js12/.idea/js12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js12/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js12/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js12/assets/pngwing.com.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js12/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js12/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js12/style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js13" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js15" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js2/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/beats.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/description.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document_files/Rectangle 2.1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document_files/Rectangle 2.2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document_files/Rectangle 2.3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document_files/Rectangle 2.4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document_files/Rectangle 2.5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document_files/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document_files/col1img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document_files/css2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document_files/media.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document_files/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document_files/summercastle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document_files/video.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DopHomework 1/assets/1683345096_kartinkof-club-p-meditiruyushchii-chelovek-kartinki-1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DopHomework 1/assets/Frame 33.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DopHomework 1/assets/Frame 34.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DopHomework 1/assets/Frame 35.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DopHomework 1/assets/Frame 36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DopHomework 1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DopHomework 1/style/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Free.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML/assets/6f454b4cd4954737a3e98b94b3d4.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework 3/Homework 3.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework 3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework 3/style/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework 4/assets/images.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework 4/assets/nando-canon-eos-r10-00.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework 4/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework 4/style/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework 5/Homework 5.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework 5/assets/slider-image3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework 5/assets/Без названия.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework 5/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework 5/style/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework 7/assets/Saly-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework 7/assets/Saly-10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework 7/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework 7/style/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework 8/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework 8/style/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson 10/assets/Saly-10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson 10/assets/Vector.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson 10/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson 10/style/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson 2/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson 2/Lesson 2.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson 2/assets/img1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson 2/assets/img2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson 2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson 2/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson 3/assets/img1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson 3/assets/img2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson 3/assets/img3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson 3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson 3/style/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson 4/assets/img1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson 4/assets/img2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson 4/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson 4/style/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson 6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Premium.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Standard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../burger-checklist-list-menu-navigation-svgrepo-com.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../copy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image 17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../js2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../js2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../js2/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../js2/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jslssn1" beforeDir="false" afterPath="$PROJECT_DIR$/../jslssn1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson3july" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson3july.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson5july/assets/Rectangle 2.1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson5july/assets/Rectangle 2.2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson5july/assets/Rectangle 2.3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson5july/assets/Rectangle 2.4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson5july/assets/Rectangle 2.5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson5july/assets/col1img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson5july/assets/ext-menu.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson5july/assets/firsttriple.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson5july/assets/play-button.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson5july/assets/secondtriple.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson5july/assets/summercastle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson5july/assets/summercastle2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson5july/assets/table.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson5july/assets/video.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson5july/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson5july/style/media.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson5july/style/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../png-transparent-gift-card-netflix-amazon-com-television-gift-miscellaneous-text-logo.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2TjWQooKe0pevKptT3WEwieOFYA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/conponents/assets" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0519b64b-055f-419a-8640-9419cf9e80ae" name="Changes" comment="" />
+      <created>1691556956546</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691556956546</updated>
+      <workItem from="1691556960882" duration="7591000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
